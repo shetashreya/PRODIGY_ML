@@ -1,6 +1,4 @@
-# 🧠 Prodigy InfoTech Machine Learning Internship
-
-This repository contains Machine Learning projects completed as part of the Prodigy InfoTech internship program.
+# Machine Learning 
 
 ---
 
